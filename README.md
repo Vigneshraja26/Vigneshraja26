@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Vignesh Rajamanickam! 👋 ☁️ 🧑‍💻
+<!-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-rajamanickam/) -->
 
-<!--
-**Vigneshraja26/Vigneshraja26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me 
+DevOps enthusiast helping teams deliver faster with automation, observability, and cloud-native solutions.
+Turning complex deployments into seamless, repeatable workflows..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <img width="60" height="60" src="./assets/amazonaws-color.svg">
+  <img width="60" height="60" src="./assets/docker-color.svg">
+  <img width="60" height="60" src="./assets/kubernetes-color.svg">
+  <img width="60" height="60" src="./assets/terraform-color.svg">
+  <img width="60" height="60" src="./assets/ansible-color.svg">
+  <img width="60" height="60" src="./assets/jenkins-color.svg">
+  <img width="60" height="60" src="./assets/githubactions-color.svg">
+  <img width="60" height="60" src="./assets/prometheus-color.svg">
+  <img width="60" height="60" src="./assets/grafana-color.svg">
+  <img width="60" height="60" src="./assets/sonarqube-color.svg">
+  <img width="60" height="60" src="./assets/sentry-color.svg">
+</div>
+
+---
+
+## 🛠 Tech Stack & Skills
+|||  
+|-|-|  
+| **Cloud Platform** | AWS (EKS, ECS, Fargate, EC2, S3, IAM, VPC, CloudFront, CloudWatch, Route53, RDS, Secrets Manager, Lambda) |  
+| **Infrastructure as Code (IaC)** | Terraform, Packer |  
+| **Containerization & Orchestration** | Docker, Kubernetes (EKS, Fargate) |  
+| **CI/CD & Automation** | Jenkins, GitHub Actions, GitLab CI/CD |  
+| **Configuration Management** | Ansible |  
+| **Version Control System** | Git, GitHub, GitLab |  
+| **Monitoring & Logging** | Prometheus, Grafana, CloudWatch, SonarQube, Sentry |  
+| **Security & Compliance** | AWS IAM Policies, Secrets Manager, CloudTrail, Config Rules |  
+| **Project Management Tools** | Jira, Confluence |  
+
+---
+
+## 🌱 Currently Exploring
+- GitOps (ArgoCD / FluxCD)  
+- AWS Control Tower & Landing Zone customization with Terraform  
+- Advanced Observability and Cost Optimization on AWS  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vigneshraja26&show_icons=true&theme=tokyonight" alt="Vignesh's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vigneshraja26&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+⭐️ *“Automate. Optimize. Deliver.”*  
+💬 Always open to collaborating on **DevOps, Cloud, and Infrastructure automation projects**.
