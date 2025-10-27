@@ -10,17 +10,17 @@ Turning complex deployments into seamless, repeatable workflows..
 ---
 
 <div align="center">
-  <img width="60" height="60" src="./assets/amazonaws-color.svg">
-  <img width="60" height="60" src="./assets/docker-color.svg">
-  <img width="60" height="60" src="./assets/kubernetes-color.svg">
-  <img width="60" height="60" src="./assets/terraform-color.svg">
-  <img width="60" height="60" src="./assets/ansible-color.svg">
-  <img width="60" height="60" src="./assets/jenkins-color.svg">
-  <img width="60" height="60" src="./assets/githubactions-color.svg">
-  <img width="60" height="60" src="./assets/prometheus-color.svg">
-  <img width="60" height="60" src="./assets/grafana-color.svg">
-  <img width="60" height="60" src="./assets/sonarqube-color.svg">
-  <img width="60" height="60" src="./assets/sentry-color.svg">
+  <img width="60" height="60" src="./asset/amazonaws-color.svg">
+  <img width="60" height="60" src="./asset/docker-color.svg">
+  <img width="60" height="60" src="./asset/kubernetes-color.svg">
+  <img width="60" height="60" src="./asset/terraform-color.svg">
+  <img width="60" height="60" src="./asset/ansible-color.svg">
+  <img width="60" height="60" src="./asset/jenkins-color.svg">
+  <img width="60" height="60" src="./asset/githubactions-color.svg">
+  <img width="60" height="60" src="./asset/prometheus-color.svg">
+  <img width="60" height="60" src="./asset/grafana-color.svg">
+  <img width="60" height="60" src="./asset/sonarqube-color.svg">
+  <img width="60" height="60" src="./asset/sentry-color.svg">
 </div>
 
 ---
